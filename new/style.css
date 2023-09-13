@@ -1,0 +1,30 @@
+*{
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+.box{
+    border: 8px solid red;
+    border-radius: 115px;
+    padding: 20px;
+
+}
+.img1{
+    width: 450px;
+    height: 500px;
+    border: 15px solid blueviolet;
+    border-radius: 55px;
+    margin: 20px;
+    padding: 5px;
+}
+iframe{
+    width: 500px;
+    height: 440px;
+    margin: 20px;
+    padding: 5px;
+    border-radius: 10%;
+}
